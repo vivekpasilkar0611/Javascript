@@ -5,6 +5,4 @@ accountCity = "Vadodara"
 
 // accountId = 1 //
 
-console.log(accountId);
-
 console.table([accountId, accountEmail, accountPassword, accountCity])
